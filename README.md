@@ -1,4 +1,4 @@
-USDE_dashboard
+USDE Dashboard
 ==============
 
-Dashboard for various types of United States Department of Education data
+Dashboard for various types of United States Department of Education data.
