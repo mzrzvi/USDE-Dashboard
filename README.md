@@ -1,4 +1,6 @@
 USDE Dashboard
 ==============
 
-Dashboard for various types of United States Department of Education data.
+Dashboard displaying United States Department of Education data.
+
+https://moizrizvi.shinyapps.io/USDE_Dashboard/
